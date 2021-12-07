@@ -1,0 +1,13 @@
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.exe
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.deps.json
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.runtimeconfig.json
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.runtimeconfig.dev.json
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.dll
+C:\Users\NÍCOLAS\Sorveteria\bin\Debug\netcoreapp3.1\Sorveteria.pdb
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.csprojAssemblyReference.cache
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.AssemblyInfoInputs.cache
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.AssemblyInfo.cs
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.csproj.CoreCompileInputs.cache
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.dll
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.pdb
+C:\Users\NÍCOLAS\Sorveteria\obj\Debug\netcoreapp3.1\Sorveteria.genruntimeconfig.cache
